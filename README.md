@@ -57,6 +57,13 @@ print(f"Accuracy: {clf.score(X_test, y_test):.2f}")
     - 0.0: No shrinkage
     - 1.0: Shrinks covariance towards a scalar multiple of identity matrix (Spherical)
 
+
+## Authors
+
+- Federico Clerici — fez.cle@gmail.com 
+- Raffaele D'Agostino — raffaeledagostino11@gmail.com 
+
+
 ## License
 
 MIT
